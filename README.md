@@ -1,6 +1,5 @@
-### Hi there 👋
+<-- ### Hi there 👋
 
-<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 
 
@@ -28,5 +27,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Soul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Soul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Soul-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <i class = "devicon-jest-plain "> </i>
+
 </div>
