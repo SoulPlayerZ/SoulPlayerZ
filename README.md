@@ -1,10 +1,9 @@
 ### Hi there 👋
-<! - no seu cabeçalho ->
+
 <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 
 
-<!--
 **SoulPlayerZ/SoulPlayerZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
