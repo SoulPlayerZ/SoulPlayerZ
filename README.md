@@ -19,6 +19,5 @@
  <div> 
   <a href="https://www.instagram.com/Thyrsokof/" target="_blank"><img src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_32x32.png?_ga=2.112658560.562039471.1630719819-2106938979.1630719819" /></a>
   <a href="https://www.linkedin.com/in/wellington-fonseca-52032b1a4/" target="_blank"><img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.9355569.562039471.1630719819-2106938979.1630719819" /></a> 
-  <a href="https://twitter.com/home?lang=pt" target="_blank"><img align="center" alt="Soul-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-  
+
 </div>
