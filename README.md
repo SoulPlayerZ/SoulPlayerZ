@@ -1,4 +1,4 @@
-# Olá :blush: Wellington Fonseca - SoulPlayerZ
+# Olá :blush: Sou Wellington Fonseca - SoulPlayerZ
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Gerência e Projeto de Redes
 - 💡 Tenho conhecimento em JavaScript, HTML5, CSS3, React e Redux.
