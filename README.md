@@ -1,4 +1,11 @@
 
+# Olá :blush: Wellington Fonseca - SoulPlayerZ
+
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Gerência e Projeto de Redes
+- 💡 Tenho conhecimento em JavaScript, HTML5, CSS3, React e Redux.
+- ⏳ Atualmente estou uma jornada de aprendizado e formação impressionante como pessoa estudante na Trybe.
+- 🔎 Estou em busca da nprimeira oportunidade de trabalhar como pessoa desenvolvedora Web JR Full Stack..
+
 <div>
   <a href="https://github.com/SoulPlayerZ">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SoulPlayerZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
