@@ -11,7 +11,7 @@
   <img align="center" alt="Soul-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Soul-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Soul-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="right" alt="SoulPlayerZ-Avatar" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/738310567063715971/907042560009207858/unknown.png?width=676&height=676">
+  <img align="right" alt="SoulPlayerZ-Avatar" height="170" style="border-radius:3%;" src="https://cdn.discordapp.com/attachments/738310567063715971/907042560009207858/unknown.png?width=676&height=676">
 
 </div>
  
