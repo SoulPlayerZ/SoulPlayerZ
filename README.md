@@ -1,4 +1,3 @@
-
 # Olá :blush: Wellington Fonseca - SoulPlayerZ
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Gerência e Projeto de Redes
