@@ -1,4 +1,4 @@
-# Olá :blush: Me chamo Wellington 
+# Olá :blush: Me chamo Wellington Fonseca
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Gerência e Projeto de Redes.
 - 💚 Passei pela jornada Trybe em 2021/2022, iniciando meus conhecimentos em desenvolvimento web em busca da transição de carreira.
