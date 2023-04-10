@@ -3,7 +3,7 @@
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Gerência e Projeto de Redes.
 - 💚 Passei pela jornada Trybe em 2021/2022, iniciando meus conhecimentos em desenvolvimento web em busca da transição de carreira.
 - 💡 Tenho conhecimento em diversas tecnologias focadas na área web Full Stack: JavaScript, HTML5, CSS3, React, Redux, NodeJS, Express.
-- ⏳ Atualmente estou em uma jornada de aprendizado na mentoria "Conquiste Sua Vaga 23" focado em conseguir minha primeira oportunidade.
+>- ⏳ Atualmente estou em uma jornada de aprendizado na mentoria "Conquiste Sua Vaga 23" focado em conseguir minha primeira oportunidade.>
 - 🔎 Estou em busca da primeira oportunidade de trabalhar como pessoa desenvolvedora Web Jr Full Stack e conseguir a sonhada transição de carreira.
 
 <div>
