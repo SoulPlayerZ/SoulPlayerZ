@@ -2,7 +2,7 @@
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Gerência e Projeto de Redes.
 - 💡  Possuo conhecimento em diversas tecnologias focadas na área web Full Stack: JavaScript, HTML5, CSS3, React, Redux, NodeJS, Express.
-- 🔎 Estou em busca da primeira oportunidade de trabalhar como pessoa desenvolvedora Web Jr Full Stack e conseguir a sonhada transição de carreira.
+- 🔎 Eem busca da primeira oportunidade de trabalhar como pessoa desenvolvedora Web Jr Full Stack e conseguir a sonhada transição de carreira.
 
 <div>
   <a href="https://github.com/SoulPlayerZ">
